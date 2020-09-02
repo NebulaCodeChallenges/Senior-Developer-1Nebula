@@ -142,22 +142,14 @@ Given the below code snippet, solve the problems that follow:
 3. How would you dynamically target ```secondDiv``` and add the ```yellow-card``` class to its class list? (provide the code snippet)
 
 ## Question 2
-Consider the ```compareIt``` function definition
-
-```javascript
-function compareIt(num1, num2) {
-    return num1 == num2;
-}
-
-compareIt(5, "5");
-```
-
-1. Why will the function call return true? 
-2. How could one change this function so that data types are checked as well as values?
-
-## Question 3
 1. How would you make a web page mobile friendly (i.e responsive)? 
    * Provide examples of this.
 2. What is the benefit of bundling .js scripts into one file? 
 3. What needs to be done to ensure the browser understands Sass styling?
 4. What should be done to ensure browser compatibility with newer flavours of JavaScript like ES6/7?
+
+# Design Challenge
+
+Please bring any personal project and present it to the interview team. We would like to see an example of a typical project that you have designed and coded from scratch.
+* Bonus: stand out by having an architecture design or some sort of visual presentation (e.g. diagrams).
+
